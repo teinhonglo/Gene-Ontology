@@ -7,6 +7,7 @@ Environment
 Recommend Setup Environment:
   - Download [WAMP](http://www.wampserver.com/en/) server (For Windows)
   - Download [MAMP](https://www.mamp.info/en/) server (For MacOSX)
+  - Installing [MySQL](https://andy6804tw.github.io/2019/01/29/ubuntu-mysql-setting/) server (For Ubuntu)
 
 How to use:
   - git clone https://github.com/teinhonglo/Gene-Ontology.git
